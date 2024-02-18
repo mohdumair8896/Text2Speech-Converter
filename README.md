@@ -4,19 +4,19 @@
 
 - AWS Service Amazon Polly is used which uses deep learning technologies to synthesize natural-sounding human speech, so you can convert articles to speech.
 
-- ## AWS Configuration
+## AWS Configuration
 
 To run this project, you will need to add the following AWS Configuration to your Terminal
 
 `Aws configure`
 
-`AWS Access Key ID[None]:`"Your Access Key ID"
+`AWS Access Key ID[None]: "Your Access Key ID"`
 
-`AWS Secret Access Key ID[None]:`"Your Secret Access Key ID"
+`AWS Secret Access Key ID[None]: "Your Secret Access Key ID"`
 
-`Default region name[None]:`us-east-1
+`Default region name[None]: us-east-1`
 
-`Default output format [None]:`Json
+`Default output format [None]: Json`
 
 ## Deployment
 
